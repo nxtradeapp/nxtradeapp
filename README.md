@@ -1,4 +1,4 @@
-- 👋 Hi, We're @nxtradeapp, the world's next generation Crypto Exchange
+- 👋 Hi, We're NX Trade, the world's next generation Crypto Exchange
 - 📫 Twitter [@nxtradeapp](https://twitter.com/nxtradeapp)
 
 <!---
